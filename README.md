@@ -4,7 +4,7 @@
 
 
 
-Hi 👋 My name is Shreyash Tekade
+Hi 👋 My name is Shreyash
 ==============================
 
 Information Technology Student
