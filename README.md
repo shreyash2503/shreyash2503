@@ -47,7 +47,7 @@ class aboutMe{
 
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,cpp,py,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,py,c)](https://skillicons.dev)
 
 </div>
  
