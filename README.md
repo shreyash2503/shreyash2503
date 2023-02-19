@@ -52,13 +52,11 @@ class aboutMe{
 </div>
  
 <div> <h3>Web Development Skills</h3> </div>
- <div>
- <p align="center">
-    <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,javascript,ts,react,redux,nodejs,expressjs,mongodb,mysql,firebase,git,github&perline=11)](https://skillicons.dev" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,javascript,ts,react,redux,nodejs,expressjs,mongodb,mysql,firebase,git,github" />
+  </a>
+</p>
 
 
 ### Socials
