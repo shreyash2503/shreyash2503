@@ -43,7 +43,7 @@ class aboutMe{
 };
 </pre>
 
-### Skills
+<h3 align="center">Skills</h3>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,py,c)](https://skillicons.dev)
