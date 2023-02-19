@@ -53,9 +53,9 @@ class aboutMe{
  
 <div> <h3>Web Development Skills</h3> </div>
  <div>
- 
+ <p align="center">
  [![Web Stack](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,javascript,ts,react,redux,nodejs,expressjs,mongodb,mysql,firebase,git,github&perline=11)](https://skillicons.dev)
- 
+  </p>
 </div>
 
 
