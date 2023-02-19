@@ -57,6 +57,16 @@ class aboutMe{
   </a>
 </p>
 
+ <div> <h3 align="center">Development Tools</h3> </div>
+ <div>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,codepen,eclipse,vim,nvim" />
+  </a>
+</p>
+  
+
+ </div>
 
 ### Socials
 
