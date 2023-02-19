@@ -44,14 +44,13 @@ class aboutMe{
 </pre>
 
 ### Skills
-">
-<div>
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,py,c)](https://skillicons.dev)
 
 </div>
  
-<div> <h3>Web Development Skills</h3> </div>
+<div> <h3 align="center">Web Development Skills</h3> </div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,javascript,ts,react,redux,nodejs,expressjs,mongodb,mysql,firebase,git,github" />
