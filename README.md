@@ -43,7 +43,7 @@ class aboutMe{
 };
 </pre>
 
-<h3 align="center">Skills</h3>
+<h3 align="center">Coding Skills</h3>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,py,c)](https://skillicons.dev)
@@ -53,7 +53,7 @@ class aboutMe{
 <div> <h3 align="center">Web Development Skills</h3> </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,javascript,ts,react,redux,nodejs,expressjs,mongodb,mysql,firebase,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,javascript,ts,react,redux,nodejs,expressjs,mongodb,mysql,firebase,git,github,pug" />
   </a>
 </p>
 
