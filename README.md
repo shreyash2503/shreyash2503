@@ -9,10 +9,6 @@ Hi 👋 My name is Shreyash
 
 Information Technology Student
 -----------------
-
-
-
-   [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
    The day I discovered coding, it was love at first site and I love technology, I literally binge watch Apple's and Google's Product Launching Events.
 <pre>
