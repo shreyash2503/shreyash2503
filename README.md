@@ -39,10 +39,10 @@ class aboutMe{
 };
 </pre>
 
-<h3 align="center">Coding Skills</h3>
+<h3 align="center">Programming Languages I Use</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,py,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,py,c,ts)](https://skillicons.dev)
 
 </div>
  
