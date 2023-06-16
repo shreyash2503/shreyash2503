@@ -55,7 +55,7 @@ class aboutMe{
 
 <div> <h3 align="center">Machine Learning</h3> </div>
 <p align="center">
-  <img src = "https://camo.githubusercontent.com/981d48e57e23a4907cebc4eb481799b5882595ea978261f22a3e131dcd6ebee6/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667"/> <img src = "https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" /> <img src = "https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667"/> <img src ="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg"/>
+  <img src = "https://camo.githubusercontent.com/981d48e57e23a4907cebc4eb481799b5882595ea978261f22a3e131dcd6ebee6/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667" height = 150 width = 150/> <img src = "https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" height = 150 width = 150 /> <img src = "https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" height = 150 width = 150 /> <img src ="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" height = 150 width = 150 /> <img  src = "https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" height =150  width = 150/>
 </p>
  <div> <h3 align="center">Development Tools</h3> </div>
  <div>
