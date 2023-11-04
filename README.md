@@ -10,7 +10,7 @@ Hi 👋 My name is Shreyash
 Information Technology Student
 -----------------
    
-   The day I discovered coding, it was love at first site and I love technology, I literally binge watch Apple's and Google's Product Launching Events.
+    I love technology, I literally binge watch Apple's and Google's Product Launching Events.
 <pre>
 class aboutMe{
   public:
@@ -24,16 +24,17 @@ class aboutMe{
         cout<<"I am also a Full Stack Web Developer, I use MERN because who doesn't right? 😂";
         cout<<"I love React and according to me the best FrontEnd Library outThere ⚛️";;
         cout<<"I also do app development using React Native";
-        cout<<"I also know my Data Structures 😁";
+
     }
     void currentlyLearningSkills()
     {
         cout<<"Currently I am learning app dev through Flutter";
-        cout<<"I am also learning Redux and TypeScript";
+        cout<<"I am also learning ML and TypeScript";
     }
-   void getMyHobbies()
+   void aboutMe()
     {
       cout<<"I enjoy Gardening🌾 and Star Gazing ✨";
+      cout<<"Ask me for a ride I will never decline"
     }
 
 };
