@@ -4,13 +4,7 @@
 
 
 
-Hi 👋 My name is Shreyash
-==============================
-
-Information Technology Student
------------------
-   
-    I love computers
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+There+%F0%9F%91%8B%2C;I+am+Shreyash;Information+Technology+Student;I+like+computers)](https://git.io/typing-svg)
 <pre>
 class aboutMe{
   public:
