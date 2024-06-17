@@ -23,7 +23,7 @@ class aboutMe{
     }
    void aboutMe()
     {
-      cout<<"I enjoy Gardening🌾 and Star Gazing ✨";
+      cout<<"I enjoy watching anime✨";
       cout<<"Ask me for a ride I will never decline"
     }
 
