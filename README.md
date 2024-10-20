@@ -7,26 +7,24 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+There+%F0%9F%91%8B%2C;I+am+Shreyash;Information+Technology+Student;I+like+computers)](https://git.io/typing-svg)
 <pre>
-class aboutMe{
-  public:
+class AboutMe {
+public:
     int age = 20;
-    string myName = Shreyash;
-    void getMySkills()
-    {
-        cout<<"The languages that I currently know are::💻";
-        cout<<"C, C++, Python, Javascript 😎";
-        cout<<"I am also a Full Stack Web Developer, I use MERN because who doesn't right? 😂";
-    }
-    void currentlyLearningSkills()
-    {
-        cout<<"Currently learning AWS and Docker";
-    }
-   void aboutMe()
-    {
-      cout<<"I enjoy watching anime✨";
-      cout<<"Ask me for a ride I will never decline"
+    string myName = "Shreyash"; // Fixed: Added quotes to string
+    string skills = "C++, C, Python, Java (Core), Spring Boot, HTML, CSS, JavaScript, TypeScript, SQL, MongoDB, "
+                    "Node, React, Express, Mongoose, Next, Deep Learning, AWS, Docker, and more!";
+
+    void getMySkills() {
+        cout << "I am a Full Stack Web Developer! My skills include: " << skills << endl;
     }
 
+    void currentlyLearningSkills() {
+        cout << "Currently learning AWS and Docker (because containerizing everything is the way to go!)" << endl;
+    }
+
+    void aboutMe() {
+        cout << "Hi, I'm " << myName << ", age " << age << ". I enjoy watching anime ✨ and asking for ride requests! 🚗💨" << endl;
+    }
 };
 </pre>
 <div align="center">
