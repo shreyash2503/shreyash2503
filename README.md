@@ -12,7 +12,7 @@ public:
     int age = 20;
     string myName = "Shreyash"; 
     string skills = "C++, C, Python, Java (Core), Spring Boot, HTML, CSS, JavaScript, TypeScript, SQL, MongoDB, "
-                    "Node, React, Express, Mongoose, Next, Deep Learning, AWS, Docker, and more!";
+                    "Node, React, Express, Mongoose, Next, Deep Learning, AWS, Docker";
 
     void getMySkills() {
         cout << "I am a Full Stack Web Developer! My skills include: " << skills << endl;
